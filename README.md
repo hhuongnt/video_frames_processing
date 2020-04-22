@@ -6,6 +6,6 @@ Split video to frames and build from frames to video.
 2. numpy
 
 *How to use:*
-pipenv install
-pipenv shell
-pipenv install
+- pipenv install
+- pipenv shell
+- pipenv install
