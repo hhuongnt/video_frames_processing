@@ -4,6 +4,6 @@ Split video to frames and build from frames to video.
 
 **Requirements**
 ```
-opencv-python
-numpy
+1. opencv-python
+2. numpy
 ```
