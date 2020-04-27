@@ -21,7 +21,7 @@ while(True):
         break
 
     # Save frame as a jpg file
-    name = 'frame' + str(current_frame) + '.jpg'
+    name = 'frame' + str(current_frame) + '.png'
     
     print ('Creating: ' + name)
     cv2.imwrite(path.join(path_to_save, name), frame)
